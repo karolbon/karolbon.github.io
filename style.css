@@ -27,4 +27,6 @@
 .footer p {
     font-family: sans-serif;
     font-size: 12px; 
+    padding-top: 7px; 
+    vertical-align:middle; 
 }
